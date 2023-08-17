@@ -1,0 +1,8 @@
+*.db
+*.bak
+.local/*
+.settings/*
+*.cache
+**/.local/
+**/.settings/*
+**/.objects/
